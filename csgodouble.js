@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Blake's CSGODOUBLE Script
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/GamrCorps/CSGODOUBLE/
 // @version      0.1
 // @description  try to take over the world!
 // @author       You
