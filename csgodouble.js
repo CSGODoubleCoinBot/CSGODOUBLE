@@ -6,7 +6,7 @@
 // @author       You
 // @match        http://www.csgodouble.com/
 // @grant        none
-// @updateUrl    https://gist.githubusercontent.com/GamrCorps/5588f76ee6d83a526ef0/raw/8d12d2b547bd4928f6b3bbbb6f1fb67e4844f4f8/blakecsgoscript.js
+// @updateUrl    https://rawgit.com/GamrCorps/CSGODOUBLE/master/csgodouble.js
 // ==/UserScript==
 
 //Customizable Options
